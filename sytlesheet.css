@@ -1,3 +1,12 @@
+/* color palette is as follows
+  1.#fff2d8
+  2.#ead7bb
+  3.#bca37f
+  4.#113946
+*/
 * {
-  background-color: darkslategrey;
+  background-color: #fff2d8;
+}
+* {
+  color: #113946;
 }
