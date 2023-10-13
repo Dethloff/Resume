@@ -10,3 +10,10 @@
 * {
   color: #113946;
 }
+
+.container {
+  display: flex;
+  gap: 1rem;
+  background-color: #ead7bb;
+  list-style: none;
+}
